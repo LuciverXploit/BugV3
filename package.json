@@ -1,0 +1,25 @@
+{
+"name": "BugV5",
+"version": "5.0.0",
+"description": "Script By LuciverXploit",
+"main": "./connect/main.js",
+"type": "commonjs",
+"scripts": {
+"start": "node ./connect/main.js"
+},
+"author": "LuciverXploit",
+"license": "ISC",
+"dependencies": {
+"@adiwajshing/baileys": "npm:baileysv2@^9.0.5",
+"@adiwajshing/keyed-db": "^0.2.4",
+"axios": "^1.1.3",
+"chalk": "^4.1.2",
+"cheerio": "^1.0.0-rc.10",
+"moment-timezone": "^0.5.34",
+"human-readable": "^0.2.1",
+"node-fetch": "^2.6.1",
+"pino": "^7.0.5",
+"util": "^0.12.4",
+"qrcode-terminal": "^0.12.0"
+}
+}
